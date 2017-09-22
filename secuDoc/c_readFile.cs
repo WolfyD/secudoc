@@ -21,7 +21,7 @@ namespace secuDoc
             morse.Add("F",".._.");
             morse.Add("G","__.");
             morse.Add("H","....");
-            morse.Add("I","..");
+            morse.Add("I",".."); 
             morse.Add("J",".___");
             morse.Add("K","_._");
             morse.Add("L","._..");
